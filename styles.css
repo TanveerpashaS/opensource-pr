@@ -1,0 +1,59 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+/* Header */
+h1 {
+    color: #0066cc;
+    text-align: center;
+}
+
+/* Image */
+img {
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+}
+
+/* Paragraph */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* Section Headings */
+h2 {
+    color: #444;
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* Lists */
+ul {
+    list-style-type: square;
+    max-width: 600px;
+    margin: 10px auto;
+    padding-left: 20px;
+}
+
+/* Contact Section */
+ul li b {
+    color: #222;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
